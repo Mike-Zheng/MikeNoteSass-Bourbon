@@ -11,7 +11,7 @@
     "bourbon",
     "mike"
   ],
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/Mike-Zheng/MikeNoteSass-Bourbon.git"
   },
@@ -20,6 +20,8 @@
   "devDependencies": {
     "bourbon": "^4.2.6",
     "gulp": "^3.9.0",
-    "gulp-sass": "^2.1.1"
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.1.1",
+    "gulp-watch": "^4.3.5"
   }
 }
