@@ -1,0 +1,25 @@
+{
+  "name": "mikenote_sass-bourbon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": [
+    "scss",
+    "bourbon",
+    "mike"
+  ],
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/Mike-Zheng/MikeNoteSass-Bourbon.git"
+  },
+  "author": "mike",
+  "license": "ISC",
+  "devDependencies": {
+    "bourbon": "^4.2.6",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.1"
+  }
+}
